@@ -4,9 +4,4 @@ matplotlib
 seaborn
 scikit-learn
 nltk
-vaderSentiment
 wordcloud
-jupyterlab
-ta-lib
-pynance
-yfinance
